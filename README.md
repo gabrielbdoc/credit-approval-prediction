@@ -48,7 +48,7 @@ Embora SMOTE e ClassWeight apresentem excelente performance para a classe majori
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/gabrielbdoc/credito-aprovacao.git
+   git clone https://github.com/gabrielbdoc/credit-approval-prediction.git
    cd credito-aprovacao
    ```
 2. Instale os requisitos
